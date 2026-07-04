@@ -1,4 +1,4 @@
-#Python Data Visualization
+# Python Data Visualization
 
 Scientific data visualization using NumPy and Matplotlib.
 
